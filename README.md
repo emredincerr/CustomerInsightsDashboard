@@ -1,5 +1,10 @@
-An analytics dashboard created using Tableau to visualize customer behavior and shopping habits.
+TR
 
+Bu proje, müşteri davranışlarını ve alışveriş alışkanlıklarını analiz etmek ve görselleştirmek amacıyla Tableau kullanılarak geliştirilmiş bir interaktif gösterge paneli içerir. Kullanıcılar, veriler üzerinden detaylı analizler yapabilir ve alışveriş trendlerini keşfedebilir. Proje, perakende veya e-ticaret sektöründeki karar alma süreçlerini desteklemek için güçlü bir görselleştirme aracı sunar.
+
+EN
+
+This project includes an interactive dashboard developed using Tableau to analyze and visualize customer behavior and shopping habits. Users can perform detailed analysis on the data and discover shopping trends. The project offers a powerful visualization tool to support decision-making processes in the retail or e-commerce industry.
 
 ![1](https://github.com/user-attachments/assets/0f557fce-c659-4f9d-b152-375b48cbd953)
 
